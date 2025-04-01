@@ -55,13 +55,7 @@ Add a screenshot of your project by placing an image inside the repository and r
 
 Example:
 ```md
-![Todo API Screenshot](Screenshot from 2025-04-01 18-35-17.png)
-![Todo API Screenshot](Screenshot from 2025-04-01 18-35-42.png)
+ (1.png)
 ```
 
-## License
-This project is licensed under the MIT License.
-
-## Author
-- **Sourabh Kumar**
 
