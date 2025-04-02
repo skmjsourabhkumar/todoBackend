@@ -51,12 +51,9 @@ This is a simple Todo backend built using Node.js, Express, and MongoDB. It prov
 | DELETE | /api/delete/:id | Delete a todo           |
 
 ## Screenshot
-Add a screenshot of your project by placing an image inside the repository and referencing it in the README.
+![Alt text](1.png)
 
-Example:
-```md
-https://github.com/skmjsourabhkumar/todoBackend/blob/main/1.png
- (1.png)
-```
+
+
 
 
